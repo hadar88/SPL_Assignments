@@ -1,7 +1,6 @@
 package bguspl.set.ex;
 
 import bguspl.set.Env;
-import bguspl.set.Main;
 
 import java.util.List;
 import java.util.stream.Collectors;
